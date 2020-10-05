@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="webapp1_calculAge_corrige/src"/>
+	<classpathentry kind="src" path="webapp1_revisions/src"/>
+	<classpathentry kind="src" path="webapp2_structure/src"/>
+	<classpathentry kind="output" path="webapp1_calculAge_corrige/build/classes"/>
+</classpath>
